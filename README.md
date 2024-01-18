@@ -7,3 +7,4 @@
 
 
 
+！[image](https://github.com/YiyingYang12/PM-INR/blob/main/Pipeline.png)
